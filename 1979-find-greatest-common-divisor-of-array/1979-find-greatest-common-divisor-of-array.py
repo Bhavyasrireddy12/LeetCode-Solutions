@@ -1,3 +1,4 @@
+from math import gcd
 class Solution:
     def findGCD(self, nums: List[int]) -> int:
         largest = nums[0]
