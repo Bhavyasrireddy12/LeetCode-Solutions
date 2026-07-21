@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [1260-shift-2d-grid](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Stack
 |  |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
