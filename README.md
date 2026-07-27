@@ -115,4 +115,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0278-first-bad-version](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0278-first-bad-version) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
