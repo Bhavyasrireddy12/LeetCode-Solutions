@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [1260-shift-2d-grid](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [2460-apply-operations-to-an-array](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0214-shortest-palindrome](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
 | [0402-remove-k-digits](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Heap (Priority Queue)
 |  |
