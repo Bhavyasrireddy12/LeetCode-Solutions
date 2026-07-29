@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0912-sort-an-array](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [1260-shift-2d-grid](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0912-sort-an-array](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Binary Search
 |  |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Rolling Hash
 |  |
@@ -173,4 +177,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
