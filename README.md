@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0283-move-zeroes](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0912-sort-an-array) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 ## Linked List
 |  |
 | ------- |
