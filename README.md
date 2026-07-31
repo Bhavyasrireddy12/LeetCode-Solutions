@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [1331-rank-transform-of-an-array](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
 |  |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/1673-find-the-most-competitive-subsequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -159,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Rolling Hash
 |  |
