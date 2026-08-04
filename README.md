@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0486-predict-the-winner](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0278-first-bad-version) |
+| [0300-longest-increasing-subsequence](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0888-fair-candy-swap](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0888-fair-candy-swap) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0300-longest-increasing-subsequence](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0486-predict-the-winner](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
@@ -284,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
