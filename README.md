@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0888-fair-candy-swap](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0888-fair-candy-swap) |
 | [0912-sort-an-array](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+| [1043-partition-array-for-maximum-sum](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1260-shift-2d-grid](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0486-predict-the-winner](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [1043-partition-array-for-maximum-sum](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1406-stone-game-iii](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 ## Linked List
 |  |
