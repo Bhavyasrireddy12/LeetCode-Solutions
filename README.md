@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1406-stone-game-iii](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1406-stone-game-iii](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 ## Linked List
 |  |
 | ------- |
@@ -292,16 +294,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -326,4 +331,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
