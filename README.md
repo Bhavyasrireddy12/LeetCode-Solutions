@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Heap (Priority Queue)
