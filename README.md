@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0214-shortest-palindrome](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
