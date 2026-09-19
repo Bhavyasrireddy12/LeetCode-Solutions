@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/1837-sum-of-digits-in-base-k) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
