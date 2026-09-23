@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0888-fair-candy-swap](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0888-fair-candy-swap) |
 | [1331-rank-transform-of-an-array](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0888-fair-candy-swap](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0888-fair-candy-swap) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Interactive
 |  |
 | ------- |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -375,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/Bhavyasrireddy12/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Nim Game
 |  |
